@@ -1,5 +1,5 @@
 /target
-/pkg
+node_modules
 /bin
 wasm-pack.log
 **/*.rs.bk
